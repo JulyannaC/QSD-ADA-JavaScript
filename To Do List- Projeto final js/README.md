@@ -13,17 +13,17 @@ Não haverá a persistência das tarefas em banco de dados. Para isso, podem uti
 
 ## Funcionalidades
 
-- Adicionar uma nova tarefa, fornecendo nome e descrição.
-- Remover uma tarefa existente.
-- Editar uma tarefa existente, incluindo a possibilidade de alterar o nome e descrição.
-- Listar todas as tarefas armazenadas.
+Adicionar uma nova tarefa, fornecendo nome e descrição.
+Remover uma tarefa existente.
+Editar uma tarefa existente, incluindo a possibilidade de alterar o nome e descrição.
+Listar todas as tarefas armazenadas.
 
 
 ## Estrutura do projeto 
 
-- index.html: Página principal do site.
-- script.js: Código JavaScript responsável pela lógica do aplicativo.
-- style.css: Estilização da página HTML.
+index.html: Página principal do site.
+script.js: Código JavaScript responsável pela lógica do aplicativo.
+style.css: Estilização da página HTML.
 
 
 ## Capturas de Tela
