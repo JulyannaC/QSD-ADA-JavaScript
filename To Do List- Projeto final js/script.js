@@ -61,5 +61,4 @@ function obterTarefa(id) {
     tarefaId = id;
 }
 
-// Initial load
 listarTarefas();
